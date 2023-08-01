@@ -15,7 +15,7 @@ Modo Usuario
 -El Chatbot es uno simple y local en la cual tiene texto básico, se guía al usuario que la compra de un producto se realiza vía Whatsapp por el cual se le redirecciona.
 -En el perfil de usuario se visualiza sus datos como: correo nombre y foto, tienen la opción de eliminar la cuenta el cual se borra registro generado en el Firebase y tiene la opción de Cerrar sesión.
 #Inicio#
-![Screenshot_1690920042](https://github.com/so-cryto/App-Vivero/assets/82790534/4382570e-5009-4bf4-bb8e-cbfe68104d1a)
+<img src=“https://github.com/so-cryto/App-Vivero/assets/82790534/4382570e-5009-4bf4-bb8e-cbfe68104d1a” width=“300” />
 ![Screenshot_1690920048](https://github.com/so-cryto/App-Vivero/assets/82790534/2d4ca9a4-1403-48c3-a928-8b4a34a7e416)
 #Modo Usuario#
 ![Screenshot_1690920067](https://github.com/so-cryto/App-Vivero/assets/82790534/6bb99b3a-3fd1-4408-b6c3-8d1e6bdae19c)
