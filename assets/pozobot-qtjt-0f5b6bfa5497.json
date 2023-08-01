@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "pozobot-qtjt",
-  "private_key_id": "0f5b6bfa5497c14fe594221c92cc8dafd6e51c1f",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCFFUuFwYOUMec\nlKLq3Y3785xibDLr6pXyIUKMkKxMBuwKEvFj9I9sM4iBkI3KwacSGoawpCJmmuZk\nNx81A3R7yGVQWqdQUiJB4o8BoyKoxTb689QAdsA+C2CMU+fADtlS56AwDz44aKCh\n7ne52vIt/gcYri5dbF6nCGXSC4ZsAh/eqcl4KI8TTLWApKLQASTkxC1RbMW4JWBt\nxror6DFdwH8zHe1UTU1sCK920i9YO8WozWNTUFmDIXctpiQILMs+4kYKKP50PCeq\n/g7ems0+ymWJE8t2q+NaBTAge44LOhIUQwfzDXUYgdu40L7hIqx9Ct95YRwcxxJk\ngkT9VR6rAgMBAAECggEABORF+K6W4Kco6NRBk6GNnG3u9qIbLyFksct50G4tvDrT\nxIs8BKobhVLP3CgnEsG1HXqIA41s2ouJRrmxnStJn9G/ZU+WS6rOTJJ9H+xF3t1y\n/c9F0X8svZju0DVQhYw6Q7ctLUOXwgyNDpfNR7oc2YuUuoqwBiXJmvSAuyhpinEA\nr9MK3dQo4iXiWir1N3g4c3EySeDxW9rlVBwbktFVShogDjBYNEY6pTrhhtj0BrgQ\nxYBG+0UNSXSX8btaQ0TwMcuswywMEL6EaBAUukxTyFaCrs2Pw5C7ZkhBb9D7Xgsm\nZQ0O6KaChoVfY4gyT8FfYBq7nUVhxOzT3f0KUxB5QQKBgQDopWLxqts0QGCBG/Ll\nZJ1iFigYA8c+GgqqMt7ZijWXCdhQ2Zc/vvUpkkIZDHLZWYTFKha3RHdKVMvHlCeY\n+M0LowiCdMcYceQkvNAwuA4R6LpjW+VTZIQIMvfbouMkBsQ0LhawlzJn3OrwaSgF\noahQBKXJmDjeckHSt03efseY6wKBgQDVj9lLb74Eh734GSvbDr9kUmwvRsqpgwv8\nde/bOArE+6I1lcbhxGQPX7m110Y5FylaMRzvcN376SesMPdm7lUPfX60ZLj8YmRw\nJw77W2o8gvyooJptdgPAVsL7x5WzCNlLq7o7JWSex4ab0lG6G5j5phI3EgCIu1i5\ncPvWCZMhQQKBgQCE7lNd8Rl1fr9lplmg11/SNwTLzAThqDGl1JFfTciXN+nhMKNq\nqisdiNO5ylIpfSwPGKCIMVfUIiWaMT56+tb2qj5nhGBqyFDq6PQwkkp/0zIFKfIc\nN1f182GKn0UYRcGAa0FNv+buT93yZrOWnCs3JaCxUwhTmoef5ltZIanc5wKBgAtZ\nkMfUkXm2KR91XwJOX1ealctRbNXjdBCfx/aTnObpJK7KXf6DrHmwsbL7VO0V0QnN\nEGedTP7lXklldNCQnA6tsb0umTI4nHPlb4NmUVgT8g+YMXzdx8dCFSzCZ69TKhE+\neDBKhXV2zy2a2OMWMmQaMl+g4kxiAI4idg/jBGHBAoGBAKMUv2VxaqzYIS7+yXms\nrDgBjByjDA4SmvjICAM0Q/zhbNv00aC4Ph3IAdBsBAhSdl9pLtAkVV88D8KVxDlr\nVpRK4/xECIAjX+0Ywe1hkV68Mt8u2qKc+cLqqcDkzatrK+3STfwKBpW7W89ITBBZ\n2jsdP0UHdPp2tgJesCjuheMD\n-----END PRIVATE KEY-----\n",
-  "client_email": "agentepozobot@pozobot-qtjt.iam.gserviceaccount.com",
-  "client_id": "111856038671161168143",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agentepozobot%40pozobot-qtjt.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
