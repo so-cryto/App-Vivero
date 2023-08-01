@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455611953839",
+    "firebase_url": "https://plantazul-default-rtdb.firebaseio.com",
+    "project_id": "plantazul",
+    "storage_bucket": "plantazul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455611953839:android:6084c5434a3b7e4b7c5a5a",
+        "android_client_info": {
+          "package_name": "com.example.productos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455611953839-st1veb6e58f3nc3ht02oectuo87av73p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5kQq0rCRH5uCj5V5hRIRuaWorEEQ_hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455611953839-st1veb6e58f3nc3ht02oectuo87av73p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
