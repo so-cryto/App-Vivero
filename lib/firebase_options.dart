@@ -44,44 +44,44 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAeDInVBtBiIzsI8t_XYrYKLhnQ_uxhcp0',
-    appId: '1:455611953839:web:44a4347c947b73867c5a5a',
-    messagingSenderId: '455611953839',
-    projectId: 'plantazul',
-    authDomain: 'plantazul.firebaseapp.com',
-    databaseURL: 'https://plantazul-default-rtdb.firebaseio.com',
-    storageBucket: 'plantazul.appspot.com',
-    measurementId: 'G-SSVJ3LE977',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAn5kQq0rCRH5uCj5V5hRIRuaWorEEQ_hM',
-    appId: '1:455611953839:android:6084c5434a3b7e4b7c5a5a',
-    messagingSenderId: '455611953839',
-    projectId: 'plantazul',
-    databaseURL: 'https://plantazul-default-rtdb.firebaseio.com',
-    storageBucket: 'plantazul.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCL8ZsH7pMwr4Fxj1ZlkKi2HYFJbd5l2b4',
-    appId: '1:455611953839:ios:49293c23cfbbde577c5a5a',
-    messagingSenderId: '455611953839',
-    projectId: 'plantazul',
-    databaseURL: 'https://plantazul-default-rtdb.firebaseio.com',
-    storageBucket: 'plantazul.appspot.com',
-    iosClientId: '455611953839-14la695b4i2ubulj160cj0mjos2jf94c.apps.googleusercontent.com',
-    iosBundleId: 'com.example.productosApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCL8ZsH7pMwr4Fxj1ZlkKi2HYFJbd5l2b4',
-    appId: '1:455611953839:ios:abefd02f71b471ba7c5a5a',
-    messagingSenderId: '455611953839',
-    projectId: 'plantazul',
-    databaseURL: 'https://plantazul-default-rtdb.firebaseio.com',
-    storageBucket: 'plantazul.appspot.com',
-    iosClientId: '455611953839-r4rsreeppqq0ek57mts5aob6cp168ejq.apps.googleusercontent.com',
-    iosBundleId: 'com.example.productosApp.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
