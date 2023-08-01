@@ -97,11 +97,6 @@ final appRouter =GoRouter(
         );
       },
     ),
-
-    GoRoute(
-     path:'/chat',//nombre de la ruta que acorta lo de abajo
-     builder:(context, state)=> const ChatScreen(title: '',),
-    ),
     GoRoute(
      path:'/chat2',//nombre de la ruta que acorta lo de abajo
      builder:(context, state)=> ChatHome(),

@@ -1,2 +1,16 @@
 # Aplicacion_de_Vivero
  Primera aplicacion realizado en Flutter con conexion a Firebase
+Esta aplicación está realizada para una gestión de un Vivero en el cual el administrador pueda cargar sus productos según su clasificación, y sus clientes (los usuarios)podrán visualizar dichos productos con sus detalles como disponibilidad y precio y mediante un chatbot puedan contactar con el vendedor mediante Whatsapp; a continuación más detalles:
+Modo Admin
+-Crear su Lista de productos
+-Ver sus Lista de productos
+-Editar y Eliminar Productos desde la lista.
+-Puede ordenar en su lista según su categoría
+Modo Usuario
+-Consultar el catálogo completo con todas las características del producto, incluida
+-Tiene un buscador de voz
+-Se puede Visualizar en un mapa la ubicación del Local
+-Se tiene una lista de favoritos por el usuario como un favorito general de los usuarios
+-En el apartado del producto se puede visualizar la imagen del producto, disponibilidad, característica, propiedades, precio, y un botón flotante de Chatbot
+-El Chatbot es uno simple y local en la cual tiene texto básico, se guía al usuario que la compra de un producto se realiza vía Whatsapp por el cual se le redirecciona.
+-En el perfil de usuario se visualiza sus datos como: correo nombre y foto, tienen la opción de eliminar la cuenta el cual se borra registro generado en el Firebase y tiene la opción de Cerrar sesión.

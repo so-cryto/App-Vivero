@@ -150,21 +150,21 @@ class _ChatHomeState extends State<ChatHome> {
       } else if (query.contains('ubicacion')) {
       responseText = 'Puedes encontrar la ubicación en el icono del GPS';
       } else if (query.contains('numero')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('Numero')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('número')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('Número')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('numero de contacto')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('Numero de contacto')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('número de contacto')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('Número de contacto')) {
-      responseText = '0972141919';
+      responseText = '+595981100200';
       } else if (query.contains('gracias')) {
       responseText = 'A usted que tenga un Buen Día!😊';
       } else if (query.contains('Gracias')) {
@@ -182,7 +182,7 @@ class _ChatHomeState extends State<ChatHome> {
       } else if (query.contains('hasta la próxima')) {
       responseText = 'Igualmente que tenga un Buen Día!😊';
      } else if (query.contains('WhatsApp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';
       // Obtener la URL del link
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
@@ -194,7 +194,7 @@ class _ChatHomeState extends State<ChatHome> {
         print('No se pudo lanzar $url');
       }
     }else if (query.contains('tienes whatsapp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';
       // Obtener la URL del link
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
@@ -206,7 +206,7 @@ class _ChatHomeState extends State<ChatHome> {
         print('No se pudo lanzar $url');
       }
       }else if (query.contains('Tienes whatsapp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';
       // Obtener la URL del link
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
@@ -219,7 +219,7 @@ class _ChatHomeState extends State<ChatHome> {
       }
       } 
        else if (query.contains('tenes whatsapp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';//Añádeme como contacto en WhatsApp. https://wa.me/qr/CLGW7QJQT5MJK1 
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';//Añádeme como contacto en WhatsApp. https://web.whatsapp.com/ 
       // Obtener la URL del link
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
@@ -232,8 +232,7 @@ class _ChatHomeState extends State<ChatHome> {
       }
       } 
        else if (query.contains('Tenes whatsapp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';//Añádeme como contacto en WhatsApp. https://wa.me/qr/CLGW7QJQT5MJK1 
-      // Obtener la URL del link
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
       if (await canLaunch(url)) {
@@ -245,8 +244,7 @@ class _ChatHomeState extends State<ChatHome> {
       }
       } 
        else if (query.contains('Tenes whatsApp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';//Añádeme como contacto en WhatsApp. https://wa.me/qr/CLGW7QJQT5MJK1 
-      // Obtener la URL del link
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
       if (await canLaunch(url)) {
@@ -258,7 +256,7 @@ class _ChatHomeState extends State<ChatHome> {
       }
     } 
        else if (query.contains('whatsApp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';//Añádeme como contacto en WhatsApp. https://wa.me/qr/CLGW7QJQT5MJK1 
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';
       // Obtener la URL del link
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
@@ -271,7 +269,7 @@ class _ChatHomeState extends State<ChatHome> {
       }
       } 
        else if (query.contains('WhatsApp')) {
-      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://wa.me/qr/CLGW7QJQT5MJK1).';//Añádeme como contacto en WhatsApp. https://wa.me/qr/CLGW7QJQT5MJK1 
+      responseText = 'Sí, tenemos WhatsApp. Puedes contactarnos [aquí](https://web.whatsapp.com/).';
       // Obtener la URL del link
       String url = responseText.substring(responseText.indexOf('(') + 1, responseText.indexOf(')'));
       // Verificar si se puede lanzar la URL
@@ -435,6 +433,8 @@ class ChatMessage extends StatelessWidget {
 }
 
 class ChatHome extends StatefulWidget {
+  const ChatHome({super.key});
+
   @override
   _ChatHomeState createState() => _ChatHomeState();
 }
