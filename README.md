@@ -22,6 +22,7 @@ Modo Usuario
 ![Screenshot_1690920085](https://github.com/so-cryto/App-Vivero/assets/82790534/3c3e9097-6253-4f4f-b3e7-f19b58630b76)
 ![Screenshot_1690920092](https://github.com/so-cryto/App-Vivero/assets/82790534/61a11ede-b5b9-45c6-97b6-53ed36b6f76b)
 #Modo Admin#
-![Screenshot_1690920171](https://github.com/so-cryto/App-Vivero/assets/82790534/7bfe6553-e210-4ef6-9bdc-76d3a7a44699)
-![Screenshot_1690920164](https://github.com/so-cryto/App-Vivero/assets/82790534/1dfd645d-d211-4698-ae5d-82d118983c89)
+
 ![Screenshot_1690920157](https://github.com/so-cryto/App-Vivero/assets/82790534/93abee9d-f984-4e0e-ad20-03d79b85bf59)
+![Screenshot_1690920164](https://github.com/so-cryto/App-Vivero/assets/82790534/1dfd645d-d211-4698-ae5d-82d118983c89)
+![Screenshot_1690920171](https://github.com/so-cryto/App-Vivero/assets/82790534/7bfe6553-e210-4ef6-9bdc-76d3a7a44699)
