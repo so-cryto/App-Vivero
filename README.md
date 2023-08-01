@@ -17,21 +17,21 @@ Modo Usuario
 
 # Inicio #
 
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/4382570e-5009-4bf4-bb8e-cbfe68104d1a" width="250" height="550">
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/2d4ca9a4-1403-48c3-a928-8b4a34a7e416" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/4aa85165-0e11-43a5-9992-562b8e2ae4d3" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/dc10131e-9e3a-453c-a5ca-0b1d080a336f" width="250" height="550">
 
 # Modo Usuario #
 
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/6bb99b3a-3fd1-4408-b6c3-8d1e6bdae19c" width="250" height="550">
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/3c3e9097-6253-4f4f-b3e7-f19b58630b76" width="250" height="550">
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/61a11ede-b5b9-45c6-97b6-53ed36b6f76b" width="250" height="550">
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/a3a3869c-1ea4-4629-8bab-9d74ee1768fe" width="250" height="550">
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/6a05f55d-1843-4bfd-b995-8047cf09eef1" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/4d131b4d-bbc0-4801-9996-2aa18798d10f" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/684249fd-0cab-4bb0-b723-efb0da0f9f29" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/d069a078-cf95-4b58-b1e1-332765a0d59d" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/5ffb025f-5634-4b2f-bf72-2a27f0521f17" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/f67dbf92-644e-4aea-bc4c-4e5c81f4b491" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/fe7aea8c-4af1-494d-85d3-a8ef6507b8af" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/073b4992-ba3e-4f65-bd03-aea197b844ad" width="250" height="550">
 
 # Modo Admin #
 
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/93abee9d-f984-4e0e-ad20-03d79b85bf59" width="250" height="550">
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/1dfd645d-d211-4698-ae5d-82d118983c89" width="250" height="550">
-<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/7bfe6553-e210-4ef6-9bdc-76d3a7a44699" width="250" height="550">
-
-
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/3208d6ee-af7b-40f6-b73d-faea674f22a9" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/2e4d6dc5-fc46-4043-84c1-ae3694ebf484" width="250" height="550">
+<img src="https://github.com/so-cryto/App-Vivero/assets/82790534/4f28fe51-bdfb-44ba-9939-62c9fb5f7559" width="250" height="550">
